@@ -27,14 +27,14 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshot.jpg)
+![](./screenshots/screenshot1.png)
 
-![](./screenshot.jpg)
+![](./screenshots/screenshot2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-using-css-flexbox-0ZRvfheiw)
+- Live Site URL: [carltonmpofu.github.io](https://carltonmpofu.github.io/responsive-stats-preview-card-component/)
 
 ## My process
 
@@ -88,4 +88,4 @@ In future projects, I want to make use of CSS grid and flexbox more to improve m
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@CarltonMpofu](https://www.frontendmentor.io/profile/CarltonMpofu)

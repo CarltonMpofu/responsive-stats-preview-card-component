@@ -1,2 +1,0 @@
-- Structure content using HTML.
-- Learned how to use CSS grid layout and how to make it responsive.
